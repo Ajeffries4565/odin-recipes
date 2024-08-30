@@ -1,0 +1,1 @@
+This is a html project to create a recipe website and should show that i have a basic understanding of the html that has been taught up to this point. Plus it should also show that I understand how to use git to create a repository and make good commit messages.
