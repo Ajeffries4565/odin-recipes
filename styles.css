@@ -1,19 +1,29 @@
 body {
-    background-color: black;
+    background-color: rgb(44, 44, 44);
 }
 
 h1 {
     text-align: center;
+    background-color: white;
     color: rgb(255, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 75px;
+    box-sizing: border-box;
+    border: 8px solid black;
+    padding: 8px;
 }
 
 .text {
-    color: rgb(255, 255, 255);
+    color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
-    text-align: left;
+    text-align: center;
+    background-color: white;
+    border: 8px solid black;
+    padding: 8px 8px;
+    height: 20px;
+    width: 300px;
+
 }
 
 .image {
